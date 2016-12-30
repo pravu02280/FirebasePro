@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234965355595",
+    "firebase_url": "https://kurakani-59bed.firebaseio.com",
+    "project_id": "kurakani-59bed",
+    "storage_bucket": "kurakani-59bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234965355595:android:051501c43ade7d29",
+        "android_client_info": {
+          "package_name": "com.example.android.kurakani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234965355595-565u2gv44sf2d7tg8jjjghfvc5ub0g8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSgcAzBhd1B-YfwVyuag8Hyp6QOdKtQl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
